@@ -123,13 +123,13 @@
     {
       "data": {
         "stringId": 320,
-        "text": "Stake LP tokens to earn GOLD"
+        "text": "Stake LP tokens to earn BCHAT"
       }
     },
     {
       "data": {
         "stringId": 322,
-        "text": "Stake Gold, get SYRUP."
+        "text": "Stake Bchat, get SYRUP."
       }
     },
     {
@@ -219,7 +219,7 @@
     {
       "data": {
         "stringId": 358,
-        "text": "Gold price"
+        "text": "Bchat price"
       }
     },
     {
@@ -675,19 +675,19 @@
     {
       "data": {
         "stringId": 544,
-        "text": "GOLD to Harvest"
+        "text": "BCHAT to Harvest"
       }
     },
     {
       "data": {
         "stringId": 546,
-        "text": "GOLD in Wallet"
+        "text": "BCHAT in Wallet"
       }
     },
     {
       "data": {
         "stringId": 548,
-        "text": "Collecting GOLD"
+        "text": "Collecting BCHAT"
       }
     },
     {
@@ -753,7 +753,7 @@
     {
       "data": {
         "stringId": 576,
-        "text": "Aztec Swap"
+        "text": "BSCchat Farm"
       }
     },
     {
@@ -1251,7 +1251,7 @@
     {
       "data": {
         "stringId": 10002,
-        "text": "Stake tokens to earn Aztec Gold"
+        "text": "Stake tokens to earn Bchat"
       }
     },
     {
